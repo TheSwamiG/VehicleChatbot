@@ -1,0 +1,299 @@
+Vehicle Number Plate: PPR-6903
+Location: San Francisco
+Number of Cameras: 3
+Camera Installation Date: 2022-11-09
+Status: running
+
+Vehicle Number Plate: LPL-5012
+Location: Denver
+Number of Cameras: 3
+Camera Installation Date: 2024-09-22
+Status: running
+
+Vehicle Number Plate: KTN-4317
+Location: San Francisco
+Number of Cameras: 2
+Camera Installation Date: 2023-02-14
+Status: running
+
+Vehicle Number Plate: NNU-4102
+Location: Houston
+Number of Cameras: 3
+Camera Installation Date: 2023-03-29
+Status: running
+
+Vehicle Number Plate: LZZ-4990
+Location: Chicago
+Number of Cameras: 2
+Camera Installation Date: 2024-10-16
+Status: not in use
+
+Vehicle Number Plate: TMT-8831
+Location: New York
+Number of Cameras: 3
+Camera Installation Date: 2024-11-13
+Status: running
+
+Vehicle Number Plate: MRF-7053
+Location: Atlanta
+Number of Cameras: 3
+Camera Installation Date: 2025-03-17
+Status: running
+
+Vehicle Number Plate: SDB-7654
+Location: Atlanta
+Number of Cameras: 2
+Camera Installation Date: 2023-08-26
+Status: running
+
+Vehicle Number Plate: WBB-4770
+Location: Chicago
+Number of Cameras: 2
+Camera Installation Date: 2023-12-03
+Status: running
+
+Vehicle Number Plate: RQE-8839
+Location: Los Angeles
+Number of Cameras: 2
+Camera Installation Date: 2024-07-24
+Status: running
+
+Vehicle Number Plate: IFM-9505
+Location: Miami
+Number of Cameras: 3
+Camera Installation Date: 2024-08-19
+Status: running
+
+Vehicle Number Plate: OKS-1204
+Location: Boston
+Number of Cameras: 3
+Camera Installation Date: 2023-09-26
+Status: running
+
+Vehicle Number Plate: OOS-3932
+Location: Chicago
+Number of Cameras: 3
+Camera Installation Date: 2022-07-14
+Status: not in use
+
+Vehicle Number Plate: ZUI-9709
+Location: New York
+Number of Cameras: 3
+Camera Installation Date: 2024-07-10
+Status: not in use
+
+Vehicle Number Plate: DUJ-4684
+Location: Los Angeles
+Number of Cameras: 2
+Camera Installation Date: 2023-01-19
+Status: running
+
+Vehicle Number Plate: EOM-3545
+Location: Miami
+Number of Cameras: 3
+Camera Installation Date: 2023-07-11
+Status: not in use
+
+Vehicle Number Plate: PUZ-6988
+Location: Chicago
+Number of Cameras: 2
+Camera Installation Date: 2025-04-08
+Status: not in use
+
+Vehicle Number Plate: BMD-1508
+Location: Seattle
+Number of Cameras: 3
+Camera Installation Date: 2024-05-28
+Status: not in use
+
+Vehicle Number Plate: WYT-1239
+Location: Atlanta
+Number of Cameras: 2
+Camera Installation Date: 2024-10-19
+Status: running
+
+Vehicle Number Plate: KBN-8922
+Location: Houston
+Number of Cameras: 3
+Camera Installation Date: 2022-05-05
+Status: running
+
+Vehicle Number Plate: YSM-3966
+Location: Denver
+Number of Cameras: 2
+Camera Installation Date: 2022-07-25
+Status: not in use
+
+Vehicle Number Plate: KPW-3753
+Location: Boston
+Number of Cameras: 2
+Camera Installation Date: 2024-09-07
+Status: not in use
+
+Vehicle Number Plate: KFA-7669
+Location: Chicago
+Number of Cameras: 3
+Camera Installation Date: 2025-03-03
+Status: running
+
+Vehicle Number Plate: SKS-6220
+Location: Miami
+Number of Cameras: 2
+Camera Installation Date: 2024-04-16
+Status: running
+
+Vehicle Number Plate: KHE-9149
+Location: Boston
+Number of Cameras: 3
+Camera Installation Date: 2023-11-02
+Status: not in use
+
+Vehicle Number Plate: KXJ-5361
+Location: Miami
+Number of Cameras: 3
+Camera Installation Date: 2023-02-04
+Status: not in use
+
+Vehicle Number Plate: ZOI-1674
+Location: San Francisco
+Number of Cameras: 3
+Camera Installation Date: 2022-05-14
+Status: not in use
+
+Vehicle Number Plate: FSA-4798
+Location: Houston
+Number of Cameras: 3
+Camera Installation Date: 2024-01-05
+Status: running
+
+Vehicle Number Plate: TMO-1602
+Location: San Francisco
+Number of Cameras: 2
+Camera Installation Date: 2024-01-15
+Status: not in use
+
+Vehicle Number Plate: PJX-2189
+Location: Miami
+Number of Cameras: 2
+Camera Installation Date: 2024-10-30
+Status: running
+
+Vehicle Number Plate: YWI-2124
+Location: Miami
+Number of Cameras: 3
+Camera Installation Date: 2024-12-03
+Status: not in use
+
+Vehicle Number Plate: CHB-3592
+Location: Los Angeles
+Number of Cameras: 3
+Camera Installation Date: 2024-05-02
+Status: not in use
+
+Vehicle Number Plate: VGD-4608
+Location: Los Angeles
+Number of Cameras: 3
+Camera Installation Date: 2022-05-20
+Status: running
+
+Vehicle Number Plate: MDM-1329
+Location: Atlanta
+Number of Cameras: 3
+Camera Installation Date: 2024-01-31
+Status: running
+
+Vehicle Number Plate: CAI-9109
+Location: San Francisco
+Number of Cameras: 2
+Camera Installation Date: 2025-01-07
+Status: not in use
+
+Vehicle Number Plate: ARA-5535
+Location: Houston
+Number of Cameras: 2
+Camera Installation Date: 2024-01-17
+Status: running
+
+Vehicle Number Plate: RHV-3310
+Location: Seattle
+Number of Cameras: 2
+Camera Installation Date: 2024-03-24
+Status: running
+
+Vehicle Number Plate: QHR-5970
+Location: Denver
+Number of Cameras: 3
+Camera Installation Date: 2023-08-14
+Status: running
+
+Vehicle Number Plate: XHY-3057
+Location: Denver
+Number of Cameras: 2
+Camera Installation Date: 2024-04-23
+Status: not in use
+
+Vehicle Number Plate: VNR-7950
+Location: Chicago
+Number of Cameras: 3
+Camera Installation Date: 2024-07-24
+Status: running
+
+Vehicle Number Plate: ILV-8675
+Location: Los Angeles
+Number of Cameras: 3
+Camera Installation Date: 2023-11-16
+Status: running
+
+Vehicle Number Plate: HMB-6367
+Location: Chicago
+Number of Cameras: 3
+Camera Installation Date: 2024-02-15
+Status: running
+
+Vehicle Number Plate: GQD-6593
+Location: Denver
+Number of Cameras: 2
+Camera Installation Date: 2025-02-26
+Status: not in use
+
+Vehicle Number Plate: NQC-9777
+Location: New York
+Number of Cameras: 2
+Camera Installation Date: 2022-01-06
+Status: not in use
+
+Vehicle Number Plate: NMK-9493
+Location: Denver
+Number of Cameras: 3
+Camera Installation Date: 2024-08-25
+Status: running
+
+Vehicle Number Plate: JPY-9956
+Location: Miami
+Number of Cameras: 2
+Camera Installation Date: 2025-01-27
+Status: not in use
+
+Vehicle Number Plate: JLN-5399
+Location: Miami
+Number of Cameras: 3
+Camera Installation Date: 2022-08-31
+Status: running
+
+Vehicle Number Plate: RIM-3620
+Location: Atlanta
+Number of Cameras: 2
+Camera Installation Date: 2022-04-15
+Status: not in use
+
+Vehicle Number Plate: TNX-7730
+Location: San Francisco
+Number of Cameras: 3
+Camera Installation Date: 2023-09-22
+Status: not in use
+
+Vehicle Number Plate: ISH-2486
+Location: Atlanta
+Number of Cameras: 2
+Camera Installation Date: 2023-04-15
+Status: not in use
