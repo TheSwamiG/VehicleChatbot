@@ -21,7 +21,7 @@ function App() {
     useEffect(() => {
         const checkBackendStatus = async () => {
             try {
-                const response = await axios.get('http://localhost:8000/health');
+                const response = await axios.get('https://vehiclechatbot.onrender.com/health');
                 console.log('Backend health check:', response.data);
                 setBackendStatus('connected');
                 setError(null);
@@ -51,7 +51,7 @@ function App() {
                 { role: "user", parts: [{ text: question }] }
             ];
 
-            const res = await axios.post('http://localhost:8000/gemini', {
+            const res = await axios.post('https://vehiclechatbot.onrender.com/gemini', {
                 history: updatedHistory,
                 message: question
             });
